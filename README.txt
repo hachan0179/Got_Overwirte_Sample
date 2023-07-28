@@ -11,7 +11,7 @@ This directory consists of these files.
 ./chall_resolve             ; Elf file
 ./chall_resolve.c           ; Source code of chall_resolve
 ./dump_chall_resolve.txt    ; Made by "$ objdump -d -M intel chall_resolve"
-./chall_resolve.i64         ; For IDA
+./chall_resolve.i64         ; For IDA64
 ./libc-2.31.so              ; Elf file that is linked to chall_resolve when chall_resolve runs
 ./dump_libc-2.31.so.txt     ; Made by "$ objdump -d -M intel libc-2-31.so"
 ./README.txt                ; This .txt file.
