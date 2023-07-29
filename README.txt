@@ -1,13 +1,13 @@
 This Repository was made to test GOT OverWrite.
 
-My environment is ubuntu20.04 LTS.
+My environment is ubuntu20.04 LTS
 
-Source code is "chall_resolve.c".
+Source code is "chall_resolve.c"
 
 Source code was compiled by gcc (version 9.4.0) with these options,
-$ gcc chall_resolve.c -fstack-protector -fcf-protection=none -no-pie -z relro -z lazy -o chall_resolve.
+$ gcc chall_resolve.c -fstack-protector -fcf-protection=none -no-pie -z relro -z lazy -o chall_resolve
 
-This directory consists of these files.
+This directory consists of these files
 ./chall_resolve             ; Elf file
 ./chall_resolve.c           ; Source code of chall_resolve
 ./dump_chall_resolve.txt    ; Made by "$ objdump -d -M intel chall_resolve"
