@@ -1,4 +1,4 @@
-This Directory is made to test GOT OverWrite.
+This Repository was made to test GOT OverWrite.
 
 My environment is ubuntu20.04 LTS.
 
