@@ -16,5 +16,5 @@ This directory consists of these files
 ./dump_libc-2.31.so.txt     ; Made by "$ objdump -d -M intel libc-2-31.so"
 ./README.txt                ; This .txt file.
 ./exploit.py                ; Python script made by me to exploit
-./socat.sh                  ; Shell script to open port and to lesten  
+./socat.sh                  ; Shell script to open port and to listen  
 
